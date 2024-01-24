@@ -8,3 +8,12 @@
     6. git status
 
             END
+
+
+            SECOND PART
+            
+        1. Head (lates # of commit) -> .git
+        2. Files have different types 
+        3. For checkig commits use git log or git log --oneline
+
+                END
